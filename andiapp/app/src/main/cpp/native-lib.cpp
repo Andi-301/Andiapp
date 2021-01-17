@@ -1,7 +1,7 @@
 #include <jni.h>
 #include <string>
 
-extern "C" JNIEXPORT jstring
+//extern "C" JNIEXPORT jstring
 
 //JNICALL
 //Java_com_example_helloworld_MainActivity_stringFromJNI(
